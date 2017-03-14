@@ -1,4 +1,6 @@
 # ECE387-Midterm-MicroSD
+# Author: Grant P
+# 16 March 2017
 
 Interfaces a liquid crystal display and MicroSD adaptor with an Arduino Uno.
 Characters are selected with a knob and entered with a button, and displayed on the LCD as
