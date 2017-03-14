@@ -8,6 +8,8 @@ they are typed in.  When the user finishes or the character limit of 16 is reach
 file is created on the MicroSD card with that name, opened, text is written to the file,
 and the file is closed.
 
+Requires libraries built into Arduino IDE: LiquidCrystal, SD, SPI
+
 In this configuration, the Arduino Uno relies on a USB connection to power itself and the circuit.
 
 Pin Connections:
