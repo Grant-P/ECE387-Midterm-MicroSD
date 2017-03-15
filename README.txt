@@ -25,14 +25,14 @@ Pin Connections:
            1 - GND
            2 - 5V
            3 - Potentiometer_1 signal pin
-           4 - D7
+           4 - D2
            5 - GND
-           6 - D6
+           6 - D3
     7,8,9,10 - FLOATING
-          11 - D5
-          12 - D4
-          13 - D3
-          14 - D2
+          11 - D4
+          12 - D5
+          13 - D6
+          14 - D7
           15 - 220 Ohm Resistor - 5V
           16 - GND
           
