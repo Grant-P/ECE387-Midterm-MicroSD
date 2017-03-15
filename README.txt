@@ -33,7 +33,7 @@ Pin Connections:
           12 - D4
           13 - D3
           14 - D2
-          15 - 330 Ohm Resistor - 5V
+          15 - 220 Ohm Resistor - 5V
           16 - GND
           
   Potentiometer_1 <-> Uno
