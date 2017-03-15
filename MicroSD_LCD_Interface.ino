@@ -10,7 +10,7 @@
 #include <SD.h>
 #include <SPI.h>
 
-LiquidCrystal lcd(7, 6, 5, 4, 3, 2); //Initialize the LiquidCrystal object with the pins in use
+LiquidCrystal lcd(2, 3, 4, 5, 6, 7); //Initialize the LiquidCrystal object with the pins in use
 int confirmPin = 9; //Digital pin for button to confirm each letter being selected
 int selectPin = A0; //Analog pin for potentiometer.  Value determines letter being selected and then displayed
 int csPin = 10; //Chip Select pin for the MicroSD adaptor
